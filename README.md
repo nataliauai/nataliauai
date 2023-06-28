@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm Natalia, a 28 years old fullstack web developer from Brasil.
+
+Skills
+👨‍💻 TypeScript, JavaScript, Python, Django, NodeJs, NextJs
+⚙️ React, Css, Tailwind
+👁️ Scrum
+💽 Postgres, SQL, Mongo
+
+Contact
+https://www.linkedin.com/in/natalia-s-p/ - Linkedin
+
 <!--
 **nataliauai/nataliauai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
