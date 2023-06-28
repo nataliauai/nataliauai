@@ -12,9 +12,9 @@
 <br>
 <div>Meu nome é Natalia e sou desenvolvedora FullStack e apaixonada por tecnologia.</div>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nataliauai" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliauai&layout=compact&langs_count=8&card_width=320" />
 </a>
